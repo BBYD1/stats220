@@ -1,6 +1,18 @@
 # stats220_demo
-This is my demo for STATS220.
+_This is my demo for STATS220._
 
-_lol_
+## My Major
 
-steam link 🎮:https://steamcommunity.com/profiles/76561198423842984/
+&bull; I study in [University of Auckland](https://www.auckland.ac.nz/en.html)
+
+&bull; Bachelor of Science 
+
+## Hobby
+&bull; Playing video game 
+
+**Here is my [steam link](https://steamcommunity.com/profiles/76561198423842984/)🎮**
+
+&bull; Watch movie
+
+&bull; Travel and photography
+
